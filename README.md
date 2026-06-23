@@ -51,7 +51,5 @@ This project automates the full machine learning workflow:
 - Decision Tree Regressor
 - KNN Regressor
 
----
 
-## 🏗️ Project Workflow
 
